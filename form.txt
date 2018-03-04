@@ -1,0 +1,427 @@
+Form:
+ Tên sản phẩm: bí đỏ tròn
+ Tên món: súp kem bí đỏ
+ Tên sheet: Menu Full Lunch
+ Thứ: Thứ 3 + 7
+ Bữa: BỮA TRƯA/MENU LUNCH
+----------------------
+Form:
+ Tên sản phẩm: bí đỏ tròn
+ Tên món: súp kem bí đỏ
+ Tên sheet: Từ 30-70pax = Semi Menu Lunch
+ Thứ: Thứ 4 + CN
+ Bữa: BỮA TRƯA / SEMI MENU LUNCH
+Các món chính sẽ nấu tại quầy
+&
+Các món chính phục vụ cùng cơm trắng 
+----------------------
+Form:
+ Tên sản phẩm: bí đỏ tròn
+ Tên món: súp kem bí đỏ
+ Tên sheet: Từ 30-70pax = Semi Menu Lunch
+ Thứ: Thứ 3 + 7
+ Bữa: BỮA TRƯA / SEMI MENU LUNCH
+Các món chính sẽ nấu tại quầy
+&
+Các món chính phục vụ cùng cơm trắng 
+----------------------
+Form:
+ Tên sản phẩm: bí đỏ tròn
+ Tên món: súp kem bí đỏ
+ Tên sheet: Dưới 50 khách =Set Menu Lunch
+ Thứ: Thứ 4 + CN
+ Bữa: BỮA TRƯA / SET MENU LUNCH
+Các món chính phục vụ ăn kèm cơm trắng
+----------------------
+Form:
+ Tên sản phẩm: bí đỏ tròn
+ Tên món: súp kem bí đỏ
+ Tên sheet: Dưới 50 khách =Set Menu Lunch
+ Thứ: Thứ 3 + 7
+ Bữa: BỮA TRƯA / SET MENU LUNCH
+Các món chính phục vụ ăn kèm cơm trắng
+----------------------
+Form:
+ Tên sản phẩm: cà tím
+ Tên món: beef moussaka
+ Tên sheet: Menu Full Dinner
+ Thứ: Thứ 4 + CN
+ Bữa: BỮA TỐI/MENU DINNER
+----------------------
+Form:
+ Tên sản phẩm: cà tím
+ Tên món: beef moussaka
+ Tên sheet: Từ 50-70pax= Semi Menu Dinner
+ Thứ: Thứ 4 + CN
+ Bữa: BỮA TỐI / SEMI MENU DINNER
+Các món chính sẽ nấu tại quầy
+&
+Các món chính phục vụ cùng cơm trắng 
+----------------------
+Form:
+ Tên sản phẩm: cà tím
+ Tên món: beef moussaka
+ Tên sheet: Dưới 50 khách = Set Menu Dinner
+ Thứ: Thứ 4 + CN
+ Bữa: BỮA TỐI / SEMI MENU DINNER
+Các món chính sẽ nấu tại quầy
+----------------------
+Form:
+ Tên sản phẩm: cà tím
+ Tên món: beef moussaka
+ Tên sheet: Menu Full Dinner
+ Thứ: Thứ 4 + CN
+ Bữa: BỮA TỐI/MENU DINNER
+----------------------
+Form:
+ Tên sản phẩm: cà tím
+ Tên món: beef moussaka
+ Tên sheet: Từ 50-70pax= Semi Menu Dinner
+ Thứ: Thứ 4 + CN
+ Bữa: BỮA TỐI / SEMI MENU DINNER
+Các món chính sẽ nấu tại quầy
+&
+Các món chính phục vụ cùng cơm trắng 
+----------------------
+Form:
+ Tên sản phẩm: cà tím
+ Tên món: beef moussaka
+ Tên sheet: Dưới 50 khách = Set Menu Dinner
+ Thứ: Thứ 4 + CN
+ Bữa: BỮA TỐI / SEMI MENU DINNER
+Các món chính sẽ nấu tại quầy
+----------------------
+Form:
+ Tên sản phẩm: cà tím
+ Tên món: cà tím om sốt thịt
+ Tên sheet: Menu Full Dinner
+ Thứ: Thứ 5
+ Bữa: BỮA TỐI/MENU DINNER
+----------------------
+Form:
+ Tên sản phẩm: cà tím
+ Tên món: cà tím om sốt thịt
+ Tên sheet: Từ 50-70pax= Semi Menu Dinner
+ Thứ: Thứ 5
+ Bữa: BỮA TỐI / SEMI MENU DINNER
+Các món chính sẽ nấu tại quầy
+&
+Các món chính phục vụ cùng cơm trắng 
+----------------------
+Form:
+ Tên sản phẩm: cà tím
+ Tên món: cà tím om sốt thịt
+ Tên sheet: Dưới 50 khách = Set Menu Dinner
+ Thứ: Thứ 5
+ Bữa: BỮA TỐI / SEMI MENU DINNER
+Các món chính sẽ nấu tại quầy
+----------------------
+Form:
+ Tên sản phẩm: tía tô
+ Tên món: cà tím om sốt thịt
+ Tên sheet: Menu Full Dinner
+ Thứ: Thứ 5
+ Bữa: BỮA TỐI/MENU DINNER
+----------------------
+Form:
+ Tên sản phẩm: tía tô
+ Tên món: cà tím om sốt thịt
+ Tên sheet: Từ 50-70pax= Semi Menu Dinner
+ Thứ: Thứ 5
+ Bữa: BỮA TỐI / SEMI MENU DINNER
+Các món chính sẽ nấu tại quầy
+&
+Các món chính phục vụ cùng cơm trắng 
+----------------------
+Form:
+ Tên sản phẩm: tía tô
+ Tên món: cà tím om sốt thịt
+ Tên sheet: Dưới 50 khách = Set Menu Dinner
+ Thứ: Thứ 5
+ Bữa: BỮA TỐI / SEMI MENU DINNER
+Các món chính sẽ nấu tại quầy
+----------------------
+Form:
+ Tên sản phẩm: tía tô
+ Tên món: cà tím om sốt thịt
+ Tên sheet: Menu Full Dinner
+ Thứ: Thứ 5
+ Bữa: BỮA TỐI/MENU DINNER
+----------------------
+Form:
+ Tên sản phẩm: tía tô
+ Tên món: cà tím om sốt thịt
+ Tên sheet: Từ 50-70pax= Semi Menu Dinner
+ Thứ: Thứ 5
+ Bữa: BỮA TỐI / SEMI MENU DINNER
+Các món chính sẽ nấu tại quầy
+&
+Các món chính phục vụ cùng cơm trắng 
+----------------------
+Form:
+ Tên sản phẩm: tía tô
+ Tên món: cà tím om sốt thịt
+ Tên sheet: Dưới 50 khách = Set Menu Dinner
+ Thứ: Thứ 5
+ Bữa: BỮA TỐI / SEMI MENU DINNER
+Các món chính sẽ nấu tại quầy
+----------------------
+Form:
+ Tên sản phẩm: chả quế
+ Tên món: bánh cuốn nhân thịt
+ Tên sheet: Menu Full breakfast
+ Thứ: Thứ 5
+ Bữa: BỮA SÁNG/MENU BREAKFAST
+----------------------
+Form:
+ Tên sản phẩm: chả quế
+ Tên món: bánh cuốn nhân thịt
+ Tên sheet: Menu Full breakfast
+ Thứ: Thứ 2 + 6
+ Bữa: BỮA SÁNG/MENU BREAKFAST
+----------------------
+Form:
+ Tên sản phẩm: chả quế
+ Tên món: bánh cuốn nhân thịt
+ Tên sheet: Menu Full breakfast
+ Thứ: Thứ 3 + 7
+ Bữa: BỮA SÁNG/MENU BREAKFAST
+----------------------
+Form:
+ Tên sản phẩm: chả quế
+ Tên món: bánh cuốn nhân thịt
+ Tên sheet: Menu Full breakfast
+ Thứ: Thứ 4 + CN
+ Bữa: BỮA SÁNG/MENU BREAKFAST
+----------------------
+Form:
+ Tên sản phẩm: chả quế
+ Tên món: bánh cuốn nhân thịt
+ Tên sheet: Menu Full breakfast
+ Thứ: Thứ 5
+ Bữa: BỮA SÁNG/MENU BREAKFAST
+----------------------
+Form:
+ Tên sản phẩm: chả quế
+ Tên món: bánh cuốn nhân thịt
+ Tên sheet: Menu Full breakfast
+ Thứ: Thứ 2 + 6
+ Bữa: BỮA SÁNG/MENU BREAKFAST
+----------------------
+Form:
+ Tên sản phẩm: chả quế
+ Tên món: bánh cuốn nhân thịt
+ Tên sheet: Menu Full breakfast
+ Thứ: Thứ 3 + 7
+ Bữa: BỮA SÁNG/MENU BREAKFAST
+----------------------
+Form:
+ Tên sản phẩm: chả quế
+ Tên món: bánh cuốn nhân thịt
+ Tên sheet: Menu Full breakfast
+ Thứ: Thứ 4 + CN
+ Bữa: BỮA SÁNG/MENU BREAKFAST
+----------------------
+Form:
+ Tên sản phẩm: chả quế
+ Tên món: bánh cuốn nhân thịt
+ Tên sheet: Menu Full breakfast
+ Thứ: Thứ 5
+ Bữa: BỮA SÁNG/MENU BREAKFAST
+----------------------
+Form:
+ Tên sản phẩm: chả quế
+ Tên món: bánh cuốn nhân thịt
+ Tên sheet: Menu Full breakfast
+ Thứ: Thứ 2 + 6
+ Bữa: BỮA SÁNG/MENU BREAKFAST
+----------------------
+Form:
+ Tên sản phẩm: chả quế
+ Tên món: bánh cuốn nhân thịt
+ Tên sheet: Menu Full breakfast
+ Thứ: Thứ 3 + 7
+ Bữa: BỮA SÁNG/MENU BREAKFAST
+----------------------
+Form:
+ Tên sản phẩm: chả quế
+ Tên món: bánh cuốn nhân thịt
+ Tên sheet: Menu Full breakfast
+ Thứ: Thứ 4 + CN
+ Bữa: BỮA SÁNG/MENU BREAKFAST
+----------------------
+Form:
+ Tên sản phẩm: bắp bò
+ Tên món: bún bò huế
+ Tên sheet: Menu Full Lunch
+ Thứ: Thứ 2 + 6
+ Bữa: BỮA TRƯA/MENU LUNCH
+----------------------
+Form:
+ Tên sản phẩm: bắp bò
+ Tên món: bún bò huế
+ Tên sheet: Từ 30-70pax = Semi Menu Lunch
+ Thứ: Thứ 2 + 6
+ Bữa: BỮA TRƯA / SEMI MENU LUNCH
+Các món chính sẽ nấu tại quầy
+&
+Các món chính phục vụ cùng cơm trắng 
+----------------------
+Form:
+ Tên sản phẩm: bắp bò
+ Tên món: bún bò huế
+ Tên sheet: Dưới 50 khách =Set Menu Lunch
+ Thứ: Thứ 2 + 6
+ Bữa: BỮA TRƯA / SET MENU LUNCH
+Các món chính phục vụ ăn kèm cơm trắng
+----------------------
+Form:
+ Tên sản phẩm: bắp bò
+ Tên món: bún bò huế
+ Tên sheet: Menu Full Lunch
+ Thứ: Thứ 2 + 6
+ Bữa: BỮA TRƯA/MENU LUNCH
+----------------------
+Form:
+ Tên sản phẩm: bắp bò
+ Tên món: bún bò huế
+ Tên sheet: Từ 30-70pax = Semi Menu Lunch
+ Thứ: Thứ 2 + 6
+ Bữa: BỮA TRƯA / SEMI MENU LUNCH
+Các món chính sẽ nấu tại quầy
+&
+Các món chính phục vụ cùng cơm trắng 
+----------------------
+Form:
+ Tên sản phẩm: bắp bò
+ Tên món: bún bò huế
+ Tên sheet: Dưới 50 khách =Set Menu Lunch
+ Thứ: Thứ 2 + 6
+ Bữa: BỮA TRƯA / SET MENU LUNCH
+Các món chính phục vụ ăn kèm cơm trắng
+----------------------
+Form:
+ Tên sản phẩm: juniper berry
+ Tên món: đùi heo hầm bắp cải
+ Tên sheet: Menu Full Dinner
+ Thứ: Thứ 2 + 6
+ Bữa: BỮA TỐI/MENU DINNER
+----------------------
+Form:
+ Tên sản phẩm: juniper berry
+ Tên món: đùi heo hầm bắp cải
+ Tên sheet: Từ 50-70pax= Semi Menu Dinner
+ Thứ: Thứ 3 + 7
+ Bữa: BỮA TỐI / SEMI MENU DINNER
+Các món chính sẽ nấu tại quầy
+&
+Các món chính phục vụ cùng cơm trắng 
+----------------------
+Form:
+ Tên sản phẩm: juniper berry
+ Tên món: đùi heo hầm bắp cải
+ Tên sheet: Dưới 50 khách = Set Menu Dinner
+ Thứ: Thứ 3 + 7
+ Bữa: BỮA TỐI / SEMI MENU DINNER
+Các món chính sẽ nấu tại quầy
+----------------------
+Form:
+ Tên sản phẩm: lá giang
+ Tên món: lẩu gà lá giang
+ Tên sheet: Menu Full Dinner
+ Thứ: Thứ 4 + CN
+ Bữa: BỮA TỐI/MENU DINNER
+----------------------
+Form:
+ Tên sản phẩm: lá giang
+ Tên món: lẩu gà lá giang
+ Tên sheet: Từ 50-70pax= Semi Menu Dinner
+ Thứ: Thứ 4 + CN
+ Bữa: BỮA TỐI / SEMI MENU DINNER
+Các món chính sẽ nấu tại quầy
+&
+Các món chính phục vụ cùng cơm trắng 
+----------------------
+Form:
+ Tên sản phẩm: lá giang
+ Tên món: lẩu gà lá giang
+ Tên sheet: Dưới 50 khách = Set Menu Dinner
+ Thứ: Thứ 4 + CN
+ Bữa: BỮA TỐI / SEMI MENU DINNER
+Các món chính sẽ nấu tại quầy
+----------------------
+Form:
+ Tên sản phẩm: nấm mỡ
+ Tên món: súp kem nấm
+ Tên sheet: Menu Full Lunch
+ Thứ: Thứ 4 + CN
+ Bữa: BỮA TRƯA/MENU LUNCH
+----------------------
+Form:
+ Tên sản phẩm: nấm mỡ
+ Tên món: súp kem nấm
+ Tên sheet: Từ 30-70pax = Semi Menu Lunch
+ Thứ: Thứ 4 + CN
+ Bữa: BỮA TRƯA / SEMI MENU LUNCH
+Các món chính sẽ nấu tại quầy
+&
+Các món chính phục vụ cùng cơm trắng 
+----------------------
+Form:
+ Tên sản phẩm: nấm mỡ
+ Tên món: súp kem nấm
+ Tên sheet: Dưới 50 khách =Set Menu Lunch
+ Thứ: Thứ 4 + CN
+ Bữa: BỮA TRƯA / SET MENU LUNCH
+Các món chính phục vụ ăn kèm cơm trắng
+----------------------
+Form:
+ Tên sản phẩm: tương ớt hàn quốc
+ Tên món: lẩu kim chi
+ Tên sheet: Menu Full Dinner
+ Thứ: Thứ 5
+ Bữa: BỮA TỐI/MENU DINNER
+----------------------
+Form:
+ Tên sản phẩm: tương ớt hàn quốc
+ Tên món: lẩu kim chi
+ Tên sheet: Từ 50-70pax= Semi Menu Dinner
+ Thứ: Thứ 5
+ Bữa: BỮA TỐI / SEMI MENU DINNER
+Các món chính sẽ nấu tại quầy
+&
+Các món chính phục vụ cùng cơm trắng 
+----------------------
+Form:
+ Tên sản phẩm: tương ớt hàn quốc
+ Tên món: lẩu kim chi
+ Tên sheet: Dưới 50 khách = Set Menu Dinner
+ Thứ: Thứ 5
+ Bữa: BỮA TỐI / SEMI MENU DINNER
+Các món chính sẽ nấu tại quầy
+----------------------
+Form:
+ Tên sản phẩm: rau mồng tơi
+ Tên món: lẩu bò
+ Tên sheet: Menu Full Dinner
+ Thứ: Thứ 2 + 6
+ Bữa: BỮA TỐI/MENU DINNER
+----------------------
+Form:
+ Tên sản phẩm: rau mồng tơi
+ Tên món: lẩu bò
+ Tên sheet: Từ 50-70pax= Semi Menu Dinner
+ Thứ: Thứ 2 + 6
+ Bữa: BỮA TỐI / SEMI MENU DINNER
+Các món chính sẽ nấu tại quầy
+&
+Các món chính phục vụ cùng cơm trắng 
+----------------------
+Form:
+ Tên sản phẩm: rau mồng tơi
+ Tên món: lẩu bò
+ Tên sheet: Dưới 50 khách = Set Menu Dinner
+ Thứ: Thứ 2 + 6
+ Bữa: BỮA TỐI / SEMI MENU DINNER
+Các món chính sẽ nấu tại quầy
+----------------------
